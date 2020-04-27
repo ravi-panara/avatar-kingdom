@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avatar-kingdom/static/css/main.12c0ba57.chunk.css",
+    "main.js": "/avatar-kingdom/static/js/main.dcf7ad54.chunk.js",
+    "main.js.map": "/avatar-kingdom/static/js/main.dcf7ad54.chunk.js.map",
+    "runtime-main.js": "/avatar-kingdom/static/js/runtime-main.11dea36b.js",
+    "runtime-main.js.map": "/avatar-kingdom/static/js/runtime-main.11dea36b.js.map",
+    "static/js/2.212a7e2c.chunk.js": "/avatar-kingdom/static/js/2.212a7e2c.chunk.js",
+    "static/js/2.212a7e2c.chunk.js.map": "/avatar-kingdom/static/js/2.212a7e2c.chunk.js.map",
+    "index.html": "/avatar-kingdom/index.html",
+    "precache-manifest.5a340d6742cfd787a3684f1a937ab714.js": "/avatar-kingdom/precache-manifest.5a340d6742cfd787a3684f1a937ab714.js",
+    "service-worker.js": "/avatar-kingdom/service-worker.js",
+    "static/css/main.12c0ba57.chunk.css.map": "/avatar-kingdom/static/css/main.12c0ba57.chunk.css.map",
+    "static/js/2.212a7e2c.chunk.js.LICENSE.txt": "/avatar-kingdom/static/js/2.212a7e2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11dea36b.js",
+    "static/js/2.212a7e2c.chunk.js",
+    "static/css/main.12c0ba57.chunk.css",
+    "static/js/main.dcf7ad54.chunk.js"
+  ]
+}
